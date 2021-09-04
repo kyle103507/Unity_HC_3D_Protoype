@@ -15,11 +15,11 @@ D:/user/Unity/Unity3Dwork/Unity_HC_3D_Protoype/3D_RPG_work1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58374
+50091
 Successfully changed project path to: D:/user/Unity/Unity3Dwork/Unity_HC_3D_Protoype/3D_RPG_work1
 D:/user/Unity/Unity3Dwork/Unity_HC_3D_Protoype/3D_RPG_work1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 20.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 23.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.15f2 (6cf78cb77498)
 [Subsystems] Discovering subsystems at path D:/user/Unity/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'D:/user/Unity/2020.3.15f2/Editor/Data/Managed'
 Mono path[1] = 'D:/user/Unity/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/user/Unity/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/user/Unity/2020.3.15f2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/user/Unity/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000748 seconds.
+Registered in 0.000795 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 20.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 24.38 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.875 seconds
+- Completed reload, in  0.880 seconds
 Domain Reload Profiling:
-	ReloadAssembly (875ms)
-		BeginReloadAssembly (32ms)
+	ReloadAssembly (880ms)
+		BeginReloadAssembly (33ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (271ms)
-			LoadAssemblies (32ms)
+		EndReloadAssembly (276ms)
+			LoadAssemblies (33ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (99ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (21ms)
-			SetupLoadedEditorAssemblies (107ms)
+			SetupLoadedEditorAssemblies (110ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (21ms)
+				RefreshPlugins (24ms)
 				BeforeProcessingInitializeOnLoad (5ms)
 				ProcessInitializeOnLoadAttributes (58ms)
 				ProcessInitializeOnLoadMethodAttributes (19ms)
@@ -75,52 +75,52 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001626 seconds.
+Registered in 0.001694 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.711 seconds
+- Completed reload, in  0.739 seconds
 Domain Reload Profiling:
-	ReloadAssembly (712ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (739ms)
+		BeginReloadAssembly (97ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (580ms)
-			LoadAssemblies (53ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (603ms)
+			LoadAssemblies (58ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (172ms)
+			SetupTypeCache (177ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (263ms)
+			SetupLoadedEditorAssemblies (279ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (35ms)
-				ProcessInitializeOnLoadAttributes (219ms)
+				BeforeProcessingInitializeOnLoad (36ms)
+				ProcessInitializeOnLoadAttributes (233ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1396 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1829.
-Total: 1.614200 ms (FindLiveObjects: 0.101300 ms CreateObjectMapping: 0.023700 ms MarkObjects: 1.429300 ms  DeleteObjects: 0.059300 ms)
+Total: 1.649100 ms (FindLiveObjects: 0.100500 ms CreateObjectMapping: 0.024200 ms MarkObjects: 1.457200 ms  DeleteObjects: 0.066400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,105 +134,1049 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(c2f96daeaedbc0741b70ee493abaadf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(c2f96daeaedbc0741b70ee493abaadf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e6289470040e1b15c01e18c5185d70') in 0.006420 seconds 
-  Import took 0.008036 seconds .
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels
+  artifactKey: Guid(5e08619e167fbc04ea4c8c676ef68107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels using Guid(5e08619e167fbc04ea4c8c676ef68107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b00671271fa47781a4462937402bc33') in 0.005621 seconds 
+  Import took 0.007457 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.408020 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.010210 seconds 
-  Import took 0.011997 seconds .
+  Time since last request: 14.821694 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1.mat
+  artifactKey: Guid(d31c39a02635df440a5fc4a31d963725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1.mat using Guid(d31c39a02635df440a5fc4a31d963725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcfcf03a206b89313257416f9bdf4bfa') in 0.131962 seconds 
+  Import took 0.134908 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.733907 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.004687 seconds 
-  Import took 0.006607 seconds .
+  Time since last request: 2.092899 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v1.mat
+  artifactKey: Guid(fd2ca71f1bddbe842987cfb87b9e752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v1.mat using Guid(fd2ca71f1bddbe842987cfb87b9e752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62c4d0179b31c232d8720a99d587d6e') in 0.027360 seconds 
+  Import took 0.030093 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.567353 seconds.
-  path: Assets/遊戲場景
-  artifactKey: Guid(ff1dadfcac945904ab0965ef9901de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/遊戲場景 using Guid(ff1dadfcac945904ab0965ef9901de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157745c306e3b43e68bc5dd24e40906b') in 0.004897 seconds 
-  Import took 0.006905 seconds .
+  Time since last request: 0.000208 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v2.tga
+  artifactKey: Guid(db6b721fa9e3c70468f5674c477630eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v2.tga using Guid(db6b721fa9e3c70468f5674c477630eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d184a04384c2fff4236f4eef8bd14c') in 0.038657 seconds 
+  Import took 0.041378 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/遊戲場景
-  artifactKey: Guid(ff1dadfcac945904ab0965ef9901de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/遊戲場景 using Guid(ff1dadfcac945904ab0965ef9901de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157745c306e3b43e68bc5dd24e40906b') in 0.001235 seconds 
-  Import took 0.002921 seconds .
+  Time since last request: 0.000152 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v1.tga
+  artifactKey: Guid(c7d6d657df5abae4f8c25def4868967b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v1.tga using Guid(c7d6d657df5abae4f8c25def4868967b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ee8edf24e0aaebe38330de8a56b486') in 0.018335 seconds 
+  Import took 0.021074 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 85.749445 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baacc0ae8dabb85b723818a1a21bca85') in 0.001747 seconds 
-  Import took 0.003835 seconds .
+  Time since last request: 0.000204 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v2.mat
+  artifactKey: Guid(1b633269e4ab8dc4f8434d5bc3ba1023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Skyboxes/Skybox_v1/Skybox_v2.mat using Guid(1b633269e4ab8dc4f8434d5bc3ba1023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51c52b5d901d5c45cf79def4541f74b') in 0.017055 seconds 
+  Import took 0.019757 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 454.142712 seconds.
-  path: Assets/Scenes/遊戲場景.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/遊戲場景.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02200d8530f8d8627e6e8d5a3360c0c4') in 0.005642 seconds 
-  Import took 0.007986 seconds .
+  Time since last request: 0.580902 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.mat
+  artifactKey: Guid(72b1322d6d38696439f8d1e283ddfdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.mat using Guid(72b1322d6d38696439f8d1e283ddfdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ed6efe19ee145da42005c6544483b3') in 0.077580 seconds 
+  Import took 0.079770 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 329.280760 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/Documentation/Premium BLUEPRINTS Frontier Settlement INFO.rtf
-  artifactKey: Guid(3224465466686194f81e4ace72d30c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/Documentation/Premium BLUEPRINTS Frontier Settlement INFO.rtf using Guid(3224465466686194f81e4ace72d30c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c415483a2a0d4fcdfeb1e6656c8673d') in 0.015994 seconds 
-  Import took 0.018431 seconds .
+  Time since last request: 0.000149 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.tga
+  artifactKey: Guid(458fc6f7dd428e748a22f2ed232be143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Grass/Grass_v1.tga using Guid(458fc6f7dd428e748a22f2ed232be143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40638e6e3ef21eb11348a792bb92ff86') in 0.010280 seconds 
+  Import took 0.012165 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.927205 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_Blacksmith.prefab
-  artifactKey: Guid(a80b83884ffb26f41bc6c3343143484a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_Blacksmith.prefab using Guid(a80b83884ffb26f41bc6c3343143484a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df4f881709d15ce443261675eedc27') in 0.074799 seconds 
-  Import took 0.077098 seconds .
+  Time since last request: 6.387024 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v1/UNIConcrete_wall_v1.mat
+  artifactKey: Guid(4b2c2bed67203ed45aa381875cc556bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v1/UNIConcrete_wall_v1.mat using Guid(4b2c2bed67203ed45aa381875cc556bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb948f5077ab1dd868673bde6dc73f5e') in 0.008781 seconds 
+  Import took 0.010836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v1/UNIConcrete_wall_v1.tga
+  artifactKey: Guid(6200c2173b59a4040b82202cdbc218f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v1/UNIConcrete_wall_v1.tga using Guid(6200c2173b59a4040b82202cdbc218f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d1631d97d24192327664460be1ffba') in 0.006317 seconds 
+  Import took 0.008143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.618226 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v2/UNIConcrete_wall_v2.mat
+  artifactKey: Guid(57853bd09e6482d4f8e7fbd0f0364014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v2/UNIConcrete_wall_v2.mat using Guid(57853bd09e6482d4f8e7fbd0f0364014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1895cfd01ee297b2b35fb6da992a8aaa') in 0.008410 seconds 
+  Import took 0.010403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v2/UNIConcrete_wall_v2.tga
+  artifactKey: Guid(58332b65d17323b48b97df0241fe22e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v2/UNIConcrete_wall_v2.tga using Guid(58332b65d17323b48b97df0241fe22e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7244976ec8fa306aa976e2b7f75fbd') in 0.006600 seconds 
+  Import took 0.008389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379627 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v3/UNIConcrete_wall_v3.mat
+  artifactKey: Guid(6d37a1cdb4a137e4fabf316d1a604783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v3/UNIConcrete_wall_v3.mat using Guid(6d37a1cdb4a137e4fabf316d1a604783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9539b6cf06902aceaadca1bb6aedfe') in 0.008487 seconds 
+  Import took 0.010797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v3/UNIConcrete_wall_v3.tga
+  artifactKey: Guid(6c1e081cfcc027d4d9b32f8c4e0619ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Concrete_wall/UNIConcrete_walls/UNIConcrete_wall_v3/UNIConcrete_wall_v3.tga using Guid(6c1e081cfcc027d4d9b32f8c4e0619ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a43fe8fe3e830a8dcca8080bb1724e6') in 0.006287 seconds 
+  Import took 0.008182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.387381 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Road_with_pavements_v1.mat
+  artifactKey: Guid(8d5d2d46a0146fa4c86ae0c056e3282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Road_with_pavements_v1.mat using Guid(8d5d2d46a0146fa4c86ae0c056e3282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b597e70eaf13219a970b9c6daa3b8226') in 0.009378 seconds 
+  Import took 0.011611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Road_with_pavements_v1.tga
+  artifactKey: Guid(ce6e3eaa632b8454ba2bcc6809437fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Road_with_pavements_v1.tga using Guid(ce6e3eaa632b8454ba2bcc6809437fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152799a5a9c79c72d54073b839186e66') in 0.007383 seconds 
+  Import took 0.009279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379863 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Seamless_asphalt_v1/Seamless_asphalt_v1.mat
+  artifactKey: Guid(999517f045d65924db469ec2a4a5c833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Seamless_asphalt_v1/Seamless_asphalt_v1.mat using Guid(999517f045d65924db469ec2a4a5c833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27143bead44ae393691443e634d8e8a') in 0.009154 seconds 
+  Import took 0.011326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Seamless_asphalt_v1/Seamless_asphalt_v1.tga
+  artifactKey: Guid(b0fe82528f70e8947aa0d123fa3194fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Seamless_asphalt_v1/Seamless_asphalt_v1.tga using Guid(b0fe82528f70e8947aa0d123fa3194fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a8762838002458899e064102edae32') in 0.008503 seconds 
+  Import took 0.010463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.089703 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_1.prefab
+  artifactKey: Guid(01fd6d8578da5054c80273c1d59d2cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_1.prefab using Guid(01fd6d8578da5054c80273c1d59d2cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7506b2c71e82e6901ea3465c1461d20') in 0.017406 seconds 
+  Import took 0.019549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_3m_LD.prefab
+  artifactKey: Guid(bc667769ec7fefe4bae11858e436c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_3m_LD.prefab using Guid(bc667769ec7fefe4bae11858e436c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bbddde848006f240ad9227057bc482') in 0.008685 seconds 
+  Import took 0.010667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_1m_HD.prefab
+  artifactKey: Guid(c626a5e84847ae34e81196b1c93c9f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_1m_HD.prefab using Guid(c626a5e84847ae34e81196b1c93c9f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1ca5d884ac81ace4578dc47cb8957e') in 0.009260 seconds 
+  Import took 0.011322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_floor.prefab
+  artifactKey: Guid(d803e729730d97a4e89edf13b602b3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_floor.prefab using Guid(d803e729730d97a4e89edf13b602b3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5d76d07ebe5fadaf72e5eb40689210') in 0.008041 seconds 
+  Import took 0.010045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_2m_HD.prefab
+  artifactKey: Guid(dcbe0840d66f9134bb43e5ec41d86349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_2m_HD.prefab using Guid(dcbe0840d66f9134bb43e5ec41d86349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e121c3042c0207ba9420b4549766074') in 0.009574 seconds 
+  Import took 0.011633 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000170 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_House.prefab
-  artifactKey: Guid(47d3dd0e10f4c214292987a17e0c2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_House.prefab using Guid(47d3dd0e10f4c214292987a17e0c2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342963159e740b4f8d437a166ee0d1cd') in 0.012615 seconds 
-  Import took 0.014911 seconds .
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_2m_LD.prefab
+  artifactKey: Guid(a6cf289cfa99e144698039a12e0a62fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_2m_LD.prefab using Guid(a6cf289cfa99e144698039a12e0a62fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b9f90d8cff2020f7447226c32d8300') in 0.009630 seconds 
+  Import took 0.011737 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/SettlementWalls.prefab
-  artifactKey: Guid(009e3dd12ac574144adcfd9ebd95add0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/SettlementWalls.prefab using Guid(009e3dd12ac574144adcfd9ebd95add0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f291f1683aabaf02e0b31a07e50a6e') in 0.006930 seconds 
-  Import took 0.008987 seconds .
+  Time since last request: 0.000187 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_2.prefab
+  artifactKey: Guid(edb53a232d99f4148bea36b9308e520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_2.prefab using Guid(edb53a232d99f4148bea36b9308e520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef3747b517860025700dce4e389d035') in 0.009910 seconds 
+  Import took 0.012094 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000125 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_House.prefab
-  artifactKey: Guid(47d3dd0e10f4c214292987a17e0c2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_House.prefab using Guid(47d3dd0e10f4c214292987a17e0c2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342963159e740b4f8d437a166ee0d1cd') in 0.008347 seconds 
+  Time since last request: 0.000173 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_1m_LD.prefab
+  artifactKey: Guid(5679dbafae207c647bfe22b5551bbeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_1m_LD.prefab using Guid(5679dbafae207c647bfe22b5551bbeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e430ef933de40f7e203b52a9a370a906') in 0.009040 seconds 
+  Import took 0.011142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_3.prefab
+  artifactKey: Guid(8624fec68710fac43a04faf0b0c20667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_b_bend_3.prefab using Guid(8624fec68710fac43a04faf0b0c20667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194cbf592f8cc816c6a4092ae31ebaee') in 0.019572 seconds 
+  Import took 0.021624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_3m_HD.prefab
+  artifactKey: Guid(41f73efb13c007844b365ef2a30de3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_road_up_3m_HD.prefab using Guid(41f73efb13c007844b365ef2a30de3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833ab5e6c9e6eed55e0bb6e80a5177ab') in 0.009456 seconds 
+  Import took 0.011512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.894655 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_bend_1.prefab
+  artifactKey: Guid(aa63f99e99a3f454e85eff556a0b996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_bend_1.prefab using Guid(aa63f99e99a3f454e85eff556a0b996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea387557fcdf5f5a352a33f965be824') in 0.009458 seconds 
+  Import took 0.011640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_bend_2.prefab
+  artifactKey: Guid(da5894b154be11342a3fcfc401f7b4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_bend_2.prefab using Guid(da5894b154be11342a3fcfc401f7b4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '898c6cc4476b37f82f21533a72969ba6') in 0.008214 seconds 
+  Import took 0.010364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.670640 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_floor.prefab
+  artifactKey: Guid(8ec728fea85097b43ad9358333759bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_floor.prefab using Guid(8ec728fea85097b43ad9358333759bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce84d6f663ab34beea6eae6613ad6324') in 0.020369 seconds 
+  Import took 0.022565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_1m_HD.prefab
+  artifactKey: Guid(33ca2b6a11569324c9e1457108f6fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_1m_HD.prefab using Guid(33ca2b6a11569324c9e1457108f6fe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0ecd03e1261d25461579c64d98fce5') in 0.009223 seconds 
+  Import took 0.011269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138568 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_1m_LD.prefab
+  artifactKey: Guid(d215fe6ef7ae1204ea94555686c6b87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_1m_LD.prefab using Guid(d215fe6ef7ae1204ea94555686c6b87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077dbc5989298f69e8159b990c293059') in 0.009119 seconds 
+  Import took 0.011352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_HD.prefab
+  artifactKey: Guid(f1f1a409b6b97cc4ebd46da8ebcaf014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_HD.prefab using Guid(f1f1a409b6b97cc4ebd46da8ebcaf014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5bb6e71f24ebd488d55cb713b33d1c') in 0.009113 seconds 
+  Import took 0.011110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 773.551230 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Source/Road_set_v1.FBX
+  artifactKey: Guid(c7f7a9ec09a97d144963b6dd16448dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Source/Road_set_v1.FBX using Guid(c7f7a9ec09a97d144963b6dd16448dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4eb31888678e8890b0381b47813677') in 0.197244 seconds 
+  Import took 0.200324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.403592 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_L_1.prefab
+  artifactKey: Guid(f1713c869f87944428ac3dfac534a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_L_1.prefab using Guid(f1713c869f87944428ac3dfac534a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7122d99517561323f9f439635087bc73') in 0.010701 seconds 
+  Import took 0.012795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_R_1.prefab
+  artifactKey: Guid(a2416fad2b37fbe4a8dc7ae8e7a48dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_R_1.prefab using Guid(a2416fad2b37fbe4a8dc7ae8e7a48dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd802f08481df18e34e6353fe9082fe2d') in 0.008283 seconds 
+  Import took 0.010301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_left.prefab
+  artifactKey: Guid(38c764ae84d05c74aa08d07948986de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_left.prefab using Guid(38c764ae84d05c74aa08d07948986de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e00d99526525637a6cc6574b95e86d1') in 0.008312 seconds 
+  Import took 0.010400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_2.prefab
+  artifactKey: Guid(b31e382504d035d458b4818d7195a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_2.prefab using Guid(b31e382504d035d458b4818d7195a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b46b9d3184bd10f176cc9422070b371') in 0.008862 seconds 
+  Import took 0.010949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_single.prefab
+  artifactKey: Guid(88ff00979f9abfc40b8bd0cfc885d175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_single.prefab using Guid(88ff00979f9abfc40b8bd0cfc885d175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9a4002bf16e1bea696ac466a184696') in 0.008507 seconds 
+  Import took 0.010643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_1.prefab
+  artifactKey: Guid(aa8e284847475604385ec530acc0bc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_1.prefab using Guid(aa8e284847475604385ec530acc0bc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00d2dc6fddfe219fd0cfb52bb28d9aa') in 0.008791 seconds 
+  Import took 0.010930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_R_2.prefab
+  artifactKey: Guid(7b4f0314f4e30c94185e84a096c302bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_R_2.prefab using Guid(7b4f0314f4e30c94185e84a096c302bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074b604a5658a4df462180daf2534384') in 0.008757 seconds 
+  Import took 0.010801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_middle.prefab
+  artifactKey: Guid(e08e48c08f76113458c351bd1e07e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_middle.prefab using Guid(e08e48c08f76113458c351bd1e07e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6127e060187bba23a02aa20d4d8387') in 0.008006 seconds 
+  Import took 0.010180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_L_2.prefab
+  artifactKey: Guid(67b4ca73507352a40a4ba54118669807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_L_2.prefab using Guid(67b4ca73507352a40a4ba54118669807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9f05648ca2ebfc6235e9a182d34c2b') in 0.008836 seconds 
+  Import took 0.010948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_right.prefab
+  artifactKey: Guid(507134deeacac104cade4f939779e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_right.prefab using Guid(507134deeacac104cade4f939779e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268d7c29b0d73cc308cc21653d3bc60d') in 0.008671 seconds 
+  Import took 0.010707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_middle.prefab
+  artifactKey: Guid(e08e48c08f76113458c351bd1e07e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_middle.prefab using Guid(e08e48c08f76113458c351bd1e07e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6127e060187bba23a02aa20d4d8387') in 0.005516 seconds 
+  Import took 0.007434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000940 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_right.prefab
+  artifactKey: Guid(507134deeacac104cade4f939779e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_right.prefab using Guid(507134deeacac104cade4f939779e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268d7c29b0d73cc308cc21653d3bc60d') in 0.006382 seconds 
+  Import took 0.008386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.768304 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_3.prefab
+  artifactKey: Guid(fcbcdad4411dafb489c6994b483d02a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_3.prefab using Guid(fcbcdad4411dafb489c6994b483d02a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d1ffa77c1032026090fe4166688634') in 0.009677 seconds 
+  Import took 0.011911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_1.prefab
+  artifactKey: Guid(c3bbd9f38e0f2744a9cd075aabf8c52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_1.prefab using Guid(c3bbd9f38e0f2744a9cd075aabf8c52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752747d318144c935ff8a5ff7559ce41') in 0.008288 seconds 
+  Import took 0.010356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.942027 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_2.prefab
+  artifactKey: Guid(48b4f0a37e13e804fa5c6e2ba91af4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_2.prefab using Guid(48b4f0a37e13e804fa5c6e2ba91af4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6f15144f8d8d5ffc766718bb5cb95a') in 0.010069 seconds 
+  Import took 0.012305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_3.prefab
+  artifactKey: Guid(51ef0a690170e4447993cb966ef83781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_3.prefab using Guid(51ef0a690170e4447993cb966ef83781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76065664132c92541600dcb7ae17d260') in 0.008379 seconds 
+  Import took 0.010426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019875 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_4.prefab
+  artifactKey: Guid(79fcf40c17def694d9e8d130f75750a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_end_4.prefab using Guid(79fcf40c17def694d9e8d130f75750a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad81bea09bc6c59304e2c6ee13b0ac4') in 0.008892 seconds 
+  Import took 0.011039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_tile_1.prefab
+  artifactKey: Guid(ce4929b3f402674448dd1e25c648d9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_tile_1.prefab using Guid(ce4929b3f402674448dd1e25c648d9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdad9bc336bd900e4dfd52b7b86a53c') in 0.007950 seconds 
+  Import took 0.009902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.584145 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_tile_2.prefab
+  artifactKey: Guid(1bf12e9c9fed6d740986f2d447756b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_W_tile_2.prefab using Guid(1bf12e9c9fed6d740986f2d447756b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186e7a7d52cd0e254b119b06bd7b13ac') in 0.008542 seconds 
+  Import took 0.010805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.975623 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Smoke_v1.prefab
+  artifactKey: Guid(96a94de897daf7249a824fb908bb12a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Smoke_v1.prefab using Guid(96a94de897daf7249a824fb908bb12a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856d72027231915d37245c13b534da88') in 0.039052 seconds 
+  Import took 0.041417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.510488 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Source/New Material.mat
+  artifactKey: Guid(469d8033d18450a4ba5415df152e330b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Source/New Material.mat using Guid(469d8033d18450a4ba5415df152e330b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a258d990ea765929abd703d8cab8cf6') in 0.008093 seconds 
+  Import took 0.010147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Source/Smoke_v1.png
+  artifactKey: Guid(a43b53426964237428777fa785440d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Smoke/Smoke_v1/Source/Smoke_v1.png using Guid(a43b53426964237428777fa785440d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b078c348fca3fb164790e36719530381') in 0.031799 seconds 
+  Import took 0.033741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.235032 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Dust_v1.prefab
+  artifactKey: Guid(31fee1c2b8079524babddad687e95210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Dust_v1.prefab using Guid(31fee1c2b8079524babddad687e95210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ec1251220b2f8630b26f8df2575d70') in 0.023424 seconds 
+  Import took 0.025651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.296879 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Source/Dust_v1.mat
+  artifactKey: Guid(dcf8eca37d87bbd4289b80d4a2a6fdef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Source/Dust_v1.mat using Guid(dcf8eca37d87bbd4289b80d4a2a6fdef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af1dd93e93c6f3f7cf384322704df9d') in 0.008432 seconds 
+  Import took 0.010691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Source/Dust_v1.png
+  artifactKey: Guid(d7e5fde27df1afc4589bd84aa08d79af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Source/Dust_v1.png using Guid(d7e5fde27df1afc4589bd84aa08d79af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44ea3083f66525eac0396a1b822a0eb') in 0.007218 seconds 
+  Import took 0.009321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.932687 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/Source/UNIFloor_elevation_set_v1.FBX
+  artifactKey: Guid(c6d026d6367d43a438c71a59c9da8290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/Source/UNIFloor_elevation_set_v1.FBX using Guid(c6d026d6367d43a438c71a59c9da8290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db84d975cf04dbe377210c392896f22') in 0.114497 seconds 
+  Import took 0.116899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.053117 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD1.prefab
+  artifactKey: Guid(a22c0c7e17126fa4f89534dc98bcac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD1.prefab using Guid(a22c0c7e17126fa4f89534dc98bcac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda20cf075e7606cda5cd10d7ce9d09c') in 0.009145 seconds 
+  Import took 0.011452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD2.prefab
+  artifactKey: Guid(17002e90aebb00b40a69cf6fe9083dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD2.prefab using Guid(17002e90aebb00b40a69cf6fe9083dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964fd1246724c32d06cde14ea2ee91c4') in 0.008300 seconds 
+  Import took 0.010475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD3.prefab
+  artifactKey: Guid(85a8f6f8dca77df4e9c05f21b5e8ed87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD3.prefab using Guid(85a8f6f8dca77df4e9c05f21b5e8ed87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58d3a762e71e98dcb6fe6aee1d5a426') in 0.008524 seconds 
+  Import took 0.010607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.740136 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Barrel_v3_quadro.prefab
+  artifactKey: Guid(9732a241b7bd0fa4a8e59553d6d8a2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Barrel_v3_quadro.prefab using Guid(9732a241b7bd0fa4a8e59553d6d8a2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4c95eb11862e01aea9569ae3899b80') in 0.008653 seconds 
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Barrel_v3_single.prefab
+  artifactKey: Guid(a62abbb708e3f49489bde29e5cfc3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Barrel_v3_single.prefab using Guid(a62abbb708e3f49489bde29e5cfc3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2316433d16217765dcaf9e33c1c8b470') in 0.007863 seconds 
+  Import took 0.009859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.763054 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1.prefab
+  artifactKey: Guid(9d1bb44d500a3ad489d3cb3a6900199f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1.prefab using Guid(9d1bb44d500a3ad489d3cb3a6900199f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9017b7c7e1f043411eb04e2411f3cd') in 0.008655 seconds 
+  Import took 0.010855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2.prefab
+  artifactKey: Guid(a50af88759b02d74b8328377b33ab3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2.prefab using Guid(a50af88759b02d74b8328377b33ab3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc82c534bedf369cf40ac454ca32bc21') in 0.008212 seconds 
+  Import took 0.010214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2square.prefab
+  artifactKey: Guid(395dcd74773407e4faa9906eedf6f75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2square.prefab using Guid(395dcd74773407e4faa9906eedf6f75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b46d35679adefc9df934c0e83bdc1a') in 0.009099 seconds 
+  Import took 0.011380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1square.prefab
+  artifactKey: Guid(6857ff1d3761e21479727f3b27cc8f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1square.prefab using Guid(6857ff1d3761e21479727f3b27cc8f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5953825399dd236d812324e5694f20') in 0.008551 seconds 
+  Import took 0.010681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001073 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2square.prefab
+  artifactKey: Guid(395dcd74773407e4faa9906eedf6f75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD2square.prefab using Guid(395dcd74773407e4faa9906eedf6f75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b46d35679adefc9df934c0e83bdc1a') in 0.009142 seconds 
+  Import took 0.011298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.921492 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_full.prefab
+  artifactKey: Guid(95c00f442e3cf3643b2062e8e0d0bbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_full.prefab using Guid(95c00f442e3cf3643b2062e8e0d0bbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45c1cc0dae3e33582846743736220e7') in 0.009499 seconds 
+  Import took 0.011867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_half.prefab
+  artifactKey: Guid(96c565084cc73634bb2bb33e2d79d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_half.prefab using Guid(96c565084cc73634bb2bb33e2d79d426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2592e35be864a44e652bee76081df86') in 0.008580 seconds 
+  Import took 0.010658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.620852 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2.prefab
+  artifactKey: Guid(dfec00be6c7c5b944991547485554901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2.prefab using Guid(dfec00be6c7c5b944991547485554901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407ab36a3111e70b04f4d3adeb784d4b') in 0.009318 seconds 
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_3.prefab
+  artifactKey: Guid(61c787ad40ab08f409a57210cd8e416b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_3.prefab using Guid(61c787ad40ab08f409a57210cd8e416b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29432d8f8ab27c43361bf66248810c31') in 0.008571 seconds 
+  Import took 0.010510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_6.prefab
+  artifactKey: Guid(9df406dc401707343b6396bd2ba69f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_6.prefab using Guid(9df406dc401707343b6396bd2ba69f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8811b642225bee46c86018ad00392ea4') in 0.012484 seconds 
+  Import took 0.014583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_5.prefab
+  artifactKey: Guid(b3faa789917d5c74cb7bc3765ff6950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_5.prefab using Guid(b3faa789917d5c74cb7bc3765ff6950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778d6f0a1ba9c364da82a0bae208b5e0') in 0.008651 seconds 
+  Import took 0.010722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding.prefab
+  artifactKey: Guid(9037b8b3960b7374db644184ba705142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding.prefab using Guid(9037b8b3960b7374db644184ba705142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f03779cc56874db6f5f485567d0ce41') in 0.008908 seconds 
+  Import took 0.011137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_1.prefab
+  artifactKey: Guid(8391a5c4218b2f243849f1998c1c41e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_1.prefab using Guid(8391a5c4218b2f243849f1998c1c41e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df73261fddc37c1b8de77e375569c93e') in 0.008996 seconds 
+  Import took 0.010998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_7.prefab
+  artifactKey: Guid(d885e290456a887418a2fd556c1b1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_7.prefab using Guid(d885e290456a887418a2fd556c1b1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6d84fd73dd59727ca2845da2c9be47') in 0.010928 seconds 
+  Import took 0.013185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_basic.prefab
+  artifactKey: Guid(231f567299ef5844f8dca0461bf7a80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_basic.prefab using Guid(231f567299ef5844f8dca0461bf7a80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc70c9cad0972735dee946fd89d0e25') in 0.021293 seconds 
+  Import took 0.023359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab
+  artifactKey: Guid(669a1884e0888f24480fbd70cc8ecb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab using Guid(669a1884e0888f24480fbd70cc8ecb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012d7c10aa018c8e813744291416efa3') in 0.009598 seconds 
+  Import took 0.011657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_2.prefab
+  artifactKey: Guid(d39ecaf886599264f8182ab11a605849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_2.prefab using Guid(d39ecaf886599264f8182ab11a605849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce84eeca00f8cd77fcd6aec96623aef') in 0.009363 seconds 
+  Import took 0.011274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab
+  artifactKey: Guid(669a1884e0888f24480fbd70cc8ecb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab using Guid(669a1884e0888f24480fbd70cc8ecb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012d7c10aa018c8e813744291416efa3') in 0.009148 seconds 
+  Import took 0.011274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.739970 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Hangar_v4.prefab
+  artifactKey: Guid(65feeeb562c61c744aa87b8eb394ffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Hangar_v4.prefab using Guid(65feeeb562c61c744aa87b8eb394ffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed61b0af8b7d40dc639234aa9cf2995') in 0.009517 seconds 
+  Import took 0.011567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.685434 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_1.prefab
+  artifactKey: Guid(b69a894e9ba3d9c40ac239743745cae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_1.prefab using Guid(b69a894e9ba3d9c40ac239743745cae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb3b891ba8a2fa8c846665e14f7aa18') in 0.010346 seconds 
+  Import took 0.012603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_4.prefab
+  artifactKey: Guid(13080391601abfd43b584ff2173828b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_4.prefab using Guid(13080391601abfd43b584ff2173828b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffeb822c18c84b326591185bb1bcf22') in 0.009257 seconds 
+  Import took 0.011287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_3.prefab
+  artifactKey: Guid(ce5c4f1e4d5aba246ac5abe74fb049e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_3.prefab using Guid(ce5c4f1e4d5aba246ac5abe74fb049e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933d028af87cb57d87d4414c82dafba8') in 0.010057 seconds 
+  Import took 0.012180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_2.prefab
+  artifactKey: Guid(7c394a3b14ae6c84d89f6a9d6e58156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Hangar_v6_2.prefab using Guid(7c394a3b14ae6c84d89f6a9d6e58156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2681b0f05363093801f8b9e620b61536') in 0.009300 seconds 
+  Import took 0.011394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 901.800266 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Materials/Road_with_pavements_v1.mat
+  artifactKey: Guid(ceec09e24c6ef8c45a621f4c4b562b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Asphalt/Road_with_pavements_v1/Materials/Road_with_pavements_v1.mat using Guid(ceec09e24c6ef8c45a621f4c4b562b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f27c5e4b86dd73bd916f59c2dfff6f7') in 0.011310 seconds 
+  Import took 0.013991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 396.875796 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_LD.prefab
+  artifactKey: Guid(0ce9133d3dc5fd5478d9e0145a0ea7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_LD.prefab using Guid(0ce9133d3dc5fd5478d9e0145a0ea7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b54a0209233a450797f6109479ff22e') in 0.012153 seconds 
+  Import took 0.014913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_tile_1.prefab
+  artifactKey: Guid(32f01941b7ab75d4791c8d0d65d80086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_tile_1.prefab using Guid(32f01941b7ab75d4791c8d0d65d80086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a79c756af490f9ffb7256dab691316') in 0.008812 seconds 
+  Import took 0.010825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060880 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_tile_2.prefab
+  artifactKey: Guid(a4ea7ad660a6e4241aff4002d350fe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_tile_2.prefab using Guid(a4ea7ad660a6e4241aff4002d350fe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f1694ed2b09ecba53fd6f51045300a') in 0.008932 seconds 
+  Import took 0.011146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.089264 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.mat
+  artifactKey: Guid(666d0826bcae23540ad89fb826867c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.mat using Guid(666d0826bcae23540ad89fb826867c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330bd5878166f2c4cdc460f58994e83e') in 0.105468 seconds 
+  Import took 0.107590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.png
+  artifactKey: Guid(70510350e3d466648831bf5261886975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.png using Guid(70510350e3d466648831bf5261886975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e2dcebdebe789ad8379b78dd4084d3') in 0.006154 seconds 
+  Import took 0.008074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.093928 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_LD.prefab
+  artifactKey: Guid(0ce9133d3dc5fd5478d9e0145a0ea7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_road_up_2m_LD.prefab using Guid(0ce9133d3dc5fd5478d9e0145a0ea7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ecae77b88db34a2d8c74125e0039fc') in 0.010506 seconds 
+  Import took 0.013216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.825466 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Source/Support_set_v1.mat
+  artifactKey: Guid(4d4b2f88cea09284f84181568075554b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Source/Support_set_v1.mat using Guid(4d4b2f88cea09284f84181568075554b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8b9732db0dcf1c92265600e68cfa08') in 0.009795 seconds 
+  Import took 0.012019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Source/Wooden_box_v1.mat
+  artifactKey: Guid(1a087c65608607042accf116f4319d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Source/Wooden_box_v1.mat using Guid(1a087c65608607042accf116f4319d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595d79e2afee837c0f8152b3d8630e06') in 0.008511 seconds 
+  Import took 0.010854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Source/Support_set_v1.mat
+  artifactKey: Guid(4d4b2f88cea09284f84181568075554b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Support_set/Support_set_v1/Source/Support_set_v1.mat using Guid(4d4b2f88cea09284f84181568075554b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8b9732db0dcf1c92265600e68cfa08') in 0.009384 seconds 
+  Import took 0.011563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Source/Wooden_box_v1.mat
+  artifactKey: Guid(1a087c65608607042accf116f4319d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Source/Wooden_box_v1.mat using Guid(1a087c65608607042accf116f4319d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595d79e2afee837c0f8152b3d8630e06') in 0.008243 seconds 
+  Import took 0.010243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.797414 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Road_blocks/Road_block_v1/Source/Road_block_v1.mat
+  artifactKey: Guid(2d466dac55e3cd54ba41e1af2e5e0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Road_blocks/Road_block_v1/Source/Road_block_v1.mat using Guid(2d466dac55e3cd54ba41e1af2e5e0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64db36c1aedd0fd4ce886884062d39d6') in 0.008757 seconds 
+  Import took 0.011091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028242 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Industrial_pipes/Industrial_pipe_v1/Source/Industrial_pipe_v1.mat
+  artifactKey: Guid(8290c716c91fee74faa2bd2490e059a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Industrial_pipes/Industrial_pipe_v1/Source/Industrial_pipe_v1.mat using Guid(8290c716c91fee74faa2bd2490e059a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4461058e2a954ad128f14b7d921890f4') in 0.009193 seconds 
+  Import took 0.011321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.mat
+  artifactKey: Guid(8b1a5387e6ed41c4f926b0d04df05a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.mat using Guid(8b1a5387e6ed41c4f926b0d04df05a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01248bf976fca0b4ee7628c6fe447035') in 0.008495 seconds 
   Import took 0.010476 seconds .
 
 ========================================================================
 Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1.mat
+  artifactKey: Guid(95f35bc55e58b884d8bcb1195b26fe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1.mat using Guid(95f35bc55e58b884d8bcb1195b26fe11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b5c4fd6199b40faff6f2d4ed7eed33') in 0.008878 seconds 
+  Import took 0.010936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Palet_v1/Source/Palet_v1.mat
+  artifactKey: Guid(4a8145f028f3ea948a65028b51474a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Palet_v1/Source/Palet_v1.mat using Guid(4a8145f028f3ea948a65028b51474a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7dfd8caeeae8930517d022b8300ec9') in 0.008759 seconds 
+  Import took 0.010988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v1/Source/Oil_tank_v1.mat
+  artifactKey: Guid(8573c79e2e3e6c14c8dc545c942c8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v1/Source/Oil_tank_v1.mat using Guid(8573c79e2e3e6c14c8dc545c942c8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5634fcd1a31643dea5d235c0a38f14bc') in 0.008648 seconds 
+  Import took 0.010757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.561459 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.mat
+  artifactKey: Guid(8d81f9b16a9135446b5451caa37570ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.mat using Guid(8d81f9b16a9135446b5451caa37570ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51644199a5e224f584487cf2c172773d') in 0.010018 seconds 
+  Import took 0.012159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangars_interior/Source/Hangars_interior_v1.mat
+  artifactKey: Guid(3c221020d878d374c985ed24b385fedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangars_interior/Source/Hangars_interior_v1.mat using Guid(3c221020d878d374c985ed24b385fedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3379e44eda9cb5b1899745d3e76c0530') in 0.009925 seconds 
+  Import took 0.012018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Source/Hangar_v6.mat
+  artifactKey: Guid(e08506550782c3645bc748132947168c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v6/Source/Hangar_v6.mat using Guid(e08506550782c3645bc748132947168c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f6f8a844fbe9bf79957b161d71ebd0') in 0.009595 seconds 
+  Import took 0.011674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v3/Source/Hangar_v3.mat
+  artifactKey: Guid(04217182e1d62cf478028b88bd3f911d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v3/Source/Hangar_v3.mat using Guid(04217182e1d62cf478028b88bd3f911d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8280949eacd5593561ad44a5962655') in 0.009306 seconds 
+  Import took 0.011411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v5/Source/Hangar_v5.mat
+  artifactKey: Guid(dbcdf9e202a1b1348a6e2c86596dcc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v5/Source/Hangar_v5.mat using Guid(dbcdf9e202a1b1348a6e2c86596dcc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168c16918a2d4ddaed9aed2777428cbc') in 0.008990 seconds 
+  Import took 0.011122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v7/Source/Hangar_v7.mat
+  artifactKey: Guid(e3532bf1b8f2e714ab5792fe9a0e786b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v7/Source/Hangar_v7.mat using Guid(e3532bf1b8f2e714ab5792fe9a0e786b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f37beb063936ebaded3f83794d63e9') in 0.009558 seconds 
+  Import took 0.011558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.mat
+  artifactKey: Guid(9c5619fe582a6fd4a9e176b10cfb600d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.mat using Guid(9c5619fe582a6fd4a9e176b10cfb600d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c00703d271d18040c034d6d90728eac') in 0.008776 seconds 
+  Import took 0.010918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.mat
+  artifactKey: Guid(84eeb742ea1c3a54599c3f405e69cbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.mat using Guid(84eeb742ea1c3a54599c3f405e69cbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694c240c3d0bb9962f1121bce2e03426') in 0.008719 seconds 
+  Import took 0.010846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.mat
+  artifactKey: Guid(381346ab5f747d8468f1a25ceb5ee3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.mat using Guid(381346ab5f747d8468f1a25ceb5ee3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ffdb987b4cb3821b3a436a437c6060') in 0.020529 seconds 
+  Import took 0.022627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.mat
+  artifactKey: Guid(7929421cb15ed0c4f873c3a43793a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.mat using Guid(7929421cb15ed0c4f873c3a43793a4e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7573461051fba61d75955ad9b8359a') in 0.008125 seconds 
+  Import took 0.010075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Fans/Fan_v1/Source/Fan_v1.mat
+  artifactKey: Guid(bd28e287643228a4f8f2ffe825813f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Fans/Fan_v1/Source/Fan_v1.mat using Guid(bd28e287643228a4f8f2ffe825813f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863de304185456201aa3d6d749145793') in 0.008617 seconds 
+  Import took 0.010774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.mat
+  artifactKey: Guid(aca7f32c011a3e44cb877ccaa92fa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.mat using Guid(aca7f32c011a3e44cb877ccaa92fa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b478b255667a05134ec86d60ad93ba') in 0.008238 seconds 
+  Import took 0.010232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.mat
+  artifactKey: Guid(80862cc9f0fa8244dabb1d398ece476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.mat using Guid(80862cc9f0fa8244dabb1d398ece476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c26c6e8d53731f2e4aef151c9bfbeb8') in 0.009839 seconds 
+  Import took 0.011910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.537597 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v3.mat
+  artifactKey: Guid(bb0d1d0eb18293f4a8d2ded5e4ee4e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v3.mat using Guid(bb0d1d0eb18293f4a8d2ded5e4ee4e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2351226f69f13aea1a70f6e4c773d83') in 0.009103 seconds 
+  Import took 0.011112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1.mat
+  artifactKey: Guid(acd39752d1464d2409980e4ae106b986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1.mat using Guid(acd39752d1464d2409980e4ae106b986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b1a3e07405dea046209ce693a3f485') in 0.008225 seconds 
+  Import took 0.010286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Source/Concrete_fence_v2.mat
+  artifactKey: Guid(9d41c32f719dc4b47bd0cbe39860bdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Source/Concrete_fence_v2.mat using Guid(9d41c32f719dc4b47bd0cbe39860bdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992e246b80c1567b982906908a63a3e6') in 0.008407 seconds 
+  Import took 0.010428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Dumpsters/Dumpsters_v1/Source/Dumpsters_v1.mat
+  artifactKey: Guid(3f513b9c59aff4f409bf303083c4a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Dumpsters/Dumpsters_v1/Source/Dumpsters_v1.mat using Guid(3f513b9c59aff4f409bf303083c4a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb19232af87f65e5a86b7b5643bd60e') in 0.008396 seconds 
+  Import took 0.010705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Donation/Donation.mat
+  artifactKey: Guid(dcce9eb7f6c7eff4cac197725dbf7880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Donation/Donation.mat using Guid(dcce9eb7f6c7eff4cac197725dbf7880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb4b3b62f9016148b05eb347379028a') in 0.023878 seconds 
+  Import took 0.025954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Conditioners/Conditioner_v1/Source/Conditioner_v1.mat
+  artifactKey: Guid(5549011eb0be2f44a8bd15f42714f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Conditioners/Conditioner_v1/Source/Conditioner_v1.mat using Guid(5549011eb0be2f44a8bd15f42714f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8631303cec4ab42a46e5d1509cbbaab0') in 0.008798 seconds 
+  Import took 0.010841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.438959 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Bags_on_pallet_v1/Source/Bags_on_pallet_v1.mat
+  artifactKey: Guid(9b20318cce963404c8c089075ad8cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Bags_on_pallet_v1/Source/Bags_on_pallet_v1.mat using Guid(9b20318cce963404c8c089075ad8cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1191b3076a25baa115c3d5be403164a3') in 0.008439 seconds 
+  Import took 0.010507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.mat
+  artifactKey: Guid(db7eb35339cc6e249a3b76684d621373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.mat using Guid(db7eb35339cc6e249a3b76684d621373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684c34dd9011b35a170ce77bc0c0d44a') in 0.007455 seconds 
+  Import took 0.009422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat
+  artifactKey: Guid(cd2f24c07b1bce24fa0066430da2910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat using Guid(cd2f24c07b1bce24fa0066430da2910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c083c438059081f262251cb8bdefc2b7') in 0.008936 seconds 
+  Import took 0.011002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v2.mat
+  artifactKey: Guid(5735afa0ccbd3dc408fbf0a19e478a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v2.mat using Guid(5735afa0ccbd3dc408fbf0a19e478a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c154cb7e7cf78454ebec842263230c5') in 0.009614 seconds 
+  Import took 0.011740 seconds .
+
+========================================================================
+Received Import Request.
   Time since last request: 0.000170 seconds.
-  path: Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_Settlement01.prefab
-  artifactKey: Guid(2c169ebb482516542888a6e2fee8b109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DForge/Blueprints/PremiumBlueprints/PB_VIK_VEK/FrontierSettlement/BLUEPRINTS/Frontiers/PB_FS_Settlement01.prefab using Guid(2c169ebb482516542888a6e2fee8b109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12fd49acb4a1db849770f5d5f91cabf8') in 0.022188 seconds 
-  Import took 0.025064 seconds .
+  path: Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v1.mat
+  artifactKey: Guid(725065c3e256d624785aad798a8d0762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v1.mat using Guid(725065c3e256d624785aad798a8d0762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195b5ba3a85e0858826c98b0844b6bb7') in 0.009560 seconds 
+  Import took 0.011624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Source/Barrel_v3.mat
+  artifactKey: Guid(f15201246572bdb49bcb3594bf3000f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Source/Barrel_v3.mat using Guid(f15201246572bdb49bcb3594bf3000f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e66b638f778ed8ee3f4327d9612f9d6') in 0.008325 seconds 
+  Import took 0.010412 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
